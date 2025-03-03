@@ -1,11 +1,11 @@
 <div align="center"><h1> Hi There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </h1>
-<h2>I'm Abhishek Yadav, a passionate Full Stack Developer from India!</h2></div>
+<h2>I'm Abhishek Yadav, a passionate Full Stack Developer!</h2></div>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-- 👀 I’m interested in Web Development, App Development & Competitive Programming.
+- 👀 I’m interested in Web Development and DSA.
 - 🔭 I’m currently working on my Problem Solving Skills in Data Structures and Algorithms.
-- 🌱 I’m currently learning **Advanced Web Development & System Design**.
+- 🌱 I’m currently learning **Web Development & DSA **.
 - 💞️ I’m looking to collaborate on Open-source and Web Development projects.
 
 ***
