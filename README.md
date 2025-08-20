@@ -41,12 +41,3 @@
 <p/>
 
 ---
-
-<h2 align="center">Contribution Graph 📊</h2>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhisheky696&theme=github-dark" />  
-
----
-
-<center>
-<h3 align="center">Show some ❤ by starring some repositories ⭐</h3>
-</center>
